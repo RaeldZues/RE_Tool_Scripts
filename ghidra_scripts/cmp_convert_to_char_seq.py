@@ -2,7 +2,7 @@
 # Category: Analysis
 # Keybinding: Ctrl+Shift+E
 # Menupath: Tools > String Extraction and Merging
-# Author: Your Name
+# Author: Raeld Zues
 # Date: 2023-07-02
 
 import re
