@@ -22,7 +22,7 @@ Welcome to the Useful Reverse Engineering Tool Scripts repository! This reposito
 The repository is organized into folders for each tool. Currently, there are the following tool folders:
 
 - [IDA Pro](./IDA_Pro): Contains scripts specifically developed for IDA Pro.
-- [Ghidra](./Ghidra): Contains scripts specifically developed for Ghidra.
+- [Ghidra](./ghidra_scripts): Contains scripts specifically developed for Ghidra.
 
 Feel free to explore the tool folders and discover the available scripts.
 
