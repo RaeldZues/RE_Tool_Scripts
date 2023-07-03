@@ -30,9 +30,6 @@ Feel free to explore the tool folders and discover the available scripts.
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the scripts according to the terms of the license.
 
-## Contributing
-
-Contributions to this repository are welcome! If you have developed useful reverse engineering tool scripts and would like to share them, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Disclaimer
 
