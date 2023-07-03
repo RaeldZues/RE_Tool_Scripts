@@ -40,6 +40,6 @@ Please note that the scripts provided in this repository are intended for educat
 
 ## Contact
 
-If you have any questions or suggestions regarding this repository, please feel free to contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions regarding this repository, please feel free to contact us here.
 
 Happy reverse engineering!
